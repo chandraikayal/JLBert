@@ -9,8 +9,9 @@ For Fine-Tuning Tasks:
      Classification of Japan NHK (Japan Broadcasting Corporation) show titles into multiple genres. 80-20 partition of train-test is done for fine-tuning task.
   2. amazon_user_reviews.csv
      Classification of Amazon Review titles into 5polarities. 80-20 partition of train-test is done for fine-tuning task.  
+     
  - Long Texts Tasks:
-  1. livedoor_news_train.tsv & livedoor_news_test.tsv
+   1. livedoor_news_train.tsv & livedoor_news_test.tsv
      Classification of news articles into 9 different categories. The dataset is partitioned into train & test data
-  2. rakuten_user_reviews.csv
+   2. rakuten_user_reviews.csv
      Classification of Rakuten reviews into two polarities.
