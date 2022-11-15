@@ -15,3 +15,9 @@ For Fine-Tuning Tasks:
      Classification of news articles into 9 different categories. The dataset is partitioned into train & test data
    2. rakuten_user_reviews.csv
      Classification of Rakuten reviews into two polarities.
+     
+     
+     
+For model files:
+The model folder consists of model files.
+In case you are not able to download it from git, please check model_link file for google drive link.
